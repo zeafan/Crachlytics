@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "353995572837",
+    "firebase_url": "https://distributionapp-f4218.firebaseio.com",
+    "project_id": "distributionapp-f4218",
+    "storage_bucket": "distributionapp-f4218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353995572837:android:cf720fce844a3366",
+        "android_client_info": {
+          "package_name": "com.syriansoft.ameendistribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353995572837-0jfpdge4iqkmld0c5imohqd2t5hd6vt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syriansoft.ameendistribution",
+            "certificate_hash": "f519899a06293fde5e9a2d1f39322e0a32ba06c4"
+          }
+        },
+        {
+          "client_id": "353995572837-655j1058msf4ggpltvhe8hfrcfsj10j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syriansoft.ameendistribution",
+            "certificate_hash": "1220155db3d10078f74f8b0e5cbc93888c14946d"
+          }
+        },
+        {
+          "client_id": "353995572837-fqluo2qfo38v7vak1p9uk4tivfv191n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIlxX0sLn4QT5NFbD27mK20Sq49C1TtgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353995572837-fqluo2qfo38v7vak1p9uk4tivfv191n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353995572837:android:db4704c37eb53ad6",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.crachlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353995572837-m33878q4s79iu1ag143kgj3ghcfih6fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohamed.crachlytics",
+            "certificate_hash": "bff5e416c95d0437fda54ed44dd42ef6de55c039"
+          }
+        },
+        {
+          "client_id": "353995572837-fqluo2qfo38v7vak1p9uk4tivfv191n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIlxX0sLn4QT5NFbD27mK20Sq49C1TtgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353995572837-fqluo2qfo38v7vak1p9uk4tivfv191n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
